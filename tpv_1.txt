@@ -1,0 +1,779 @@
+Using Device : cuda
+About Dataset [train]
+Benign: 75
+InSitu: 75
+Invasive: 75
+Normal: 75
+Total: 300
+Noise: 0.000000
+Shape: [3, 384, 512]
+
+About Dataset [test]
+Benign: 25
+InSitu: 25
+Invasive: 25
+Normal: 25
+Total: 100
+Noise: 0.000000
+Shape: [3, 384, 512]
+
+Encoded Space Dimensions : [32, 4, 6]
+count =  [75, 75, 75, 75]
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0001/0100 : Loss : 1.450801 	 Accuracy : 0151/0600 (25.000000)
+[Disc2] Epoch 0001/0100 : Loss : 1.428648 	 Accuracy : 0174/0600 (29.000000)
+[Clsfr] Epoch 0001/0100 : Loss : 1.461576 	 Accuracy : 0074/0300 (24.000000)
+[Dec] Epoch 0001/0100 : Loss : 0.372815
+[test] Loss : 1.395705 	 Accuracy : 0025/0100 (25.000000)
+
+saving checkpoint for least loss =  1.395705223083496
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0002/0100 : Loss : 1.400611 	 Accuracy : 0189/0600 (31.000000)
+[Disc2] Epoch 0002/0100 : Loss : 1.436827 	 Accuracy : 0200/0600 (33.000000)
+[Clsfr] Epoch 0002/0100 : Loss : 1.447053 	 Accuracy : 0077/0300 (25.000000)
+[Dec] Epoch 0002/0100 : Loss : 0.361746
+[test] Loss : 1.396742 	 Accuracy : 0025/0100 (25.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0003/0100 : Loss : 1.401728 	 Accuracy : 0210/0600 (35.000000)
+[Disc2] Epoch 0003/0100 : Loss : 1.459331 	 Accuracy : 0203/0600 (33.000000)
+[Clsfr] Epoch 0003/0100 : Loss : 1.433469 	 Accuracy : 0079/0300 (26.000000)
+[Dec] Epoch 0003/0100 : Loss : 0.352526
+[test] Loss : 1.395854 	 Accuracy : 0025/0100 (25.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0004/0100 : Loss : 1.402613 	 Accuracy : 0233/0600 (38.000000)
+[Disc2] Epoch 0004/0100 : Loss : 1.432587 	 Accuracy : 0214/0600 (35.000000)
+[Clsfr] Epoch 0004/0100 : Loss : 1.488142 	 Accuracy : 0074/0300 (24.000000)
+[Dec] Epoch 0004/0100 : Loss : 0.352695
+[test] Loss : 1.396777 	 Accuracy : 0028/0100 (28.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0005/0100 : Loss : 1.385053 	 Accuracy : 0237/0600 (39.000000)
+[Disc2] Epoch 0005/0100 : Loss : 1.392505 	 Accuracy : 0229/0600 (38.000000)
+[Clsfr] Epoch 0005/0100 : Loss : 1.474230 	 Accuracy : 0070/0300 (23.000000)
+[Dec] Epoch 0005/0100 : Loss : 0.337884
+[test] Loss : 1.399343 	 Accuracy : 0026/0100 (26.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0006/0100 : Loss : 1.376060 	 Accuracy : 0243/0600 (40.000000)
+[Disc2] Epoch 0006/0100 : Loss : 1.398383 	 Accuracy : 0223/0600 (37.000000)
+[Clsfr] Epoch 0006/0100 : Loss : 1.475811 	 Accuracy : 0067/0300 (22.000000)
+[Dec] Epoch 0006/0100 : Loss : 0.337347
+[test] Loss : 1.402043 	 Accuracy : 0023/0100 (23.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0007/0100 : Loss : 1.368675 	 Accuracy : 0234/0600 (39.000000)
+[Disc2] Epoch 0007/0100 : Loss : 1.379040 	 Accuracy : 0206/0600 (34.000000)
+[Clsfr] Epoch 0007/0100 : Loss : 1.443295 	 Accuracy : 0080/0300 (26.000000)
+[Dec] Epoch 0007/0100 : Loss : 0.323318
+[test] Loss : 1.399141 	 Accuracy : 0025/0100 (25.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0008/0100 : Loss : 1.393416 	 Accuracy : 0240/0600 (40.000000)
+[Disc2] Epoch 0008/0100 : Loss : 1.394931 	 Accuracy : 0231/0600 (38.000000)
+[Clsfr] Epoch 0008/0100 : Loss : 1.455919 	 Accuracy : 0079/0300 (26.000000)
+[Dec] Epoch 0008/0100 : Loss : 0.319327
+[test] Loss : 1.395882 	 Accuracy : 0025/0100 (25.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0009/0100 : Loss : 1.387703 	 Accuracy : 0204/0600 (34.000000)
+[Disc2] Epoch 0009/0100 : Loss : 1.383119 	 Accuracy : 0221/0600 (36.000000)
+[Clsfr] Epoch 0009/0100 : Loss : 1.472614 	 Accuracy : 0079/0300 (26.000000)
+[Dec] Epoch 0009/0100 : Loss : 0.308817
+[test] Loss : 1.391472 	 Accuracy : 0025/0100 (25.000000)
+
+saving checkpoint for least loss =  1.391472339630127
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0010/0100 : Loss : 1.359687 	 Accuracy : 0234/0600 (39.000000)
+[Disc2] Epoch 0010/0100 : Loss : 1.357761 	 Accuracy : 0244/0600 (40.000000)
+[Clsfr] Epoch 0010/0100 : Loss : 1.426234 	 Accuracy : 0084/0300 (28.000000)
+[Dec] Epoch 0010/0100 : Loss : 0.312015
+[test] Loss : 1.392021 	 Accuracy : 0028/0100 (28.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0011/0100 : Loss : 1.381591 	 Accuracy : 0228/0600 (38.000000)
+[Disc2] Epoch 0011/0100 : Loss : 1.331329 	 Accuracy : 0237/0600 (39.000000)
+[Clsfr] Epoch 0011/0100 : Loss : 1.484336 	 Accuracy : 0068/0300 (22.000000)
+[Dec] Epoch 0011/0100 : Loss : 0.297438
+[test] Loss : 1.394375 	 Accuracy : 0026/0100 (26.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0012/0100 : Loss : 1.336574 	 Accuracy : 0226/0600 (37.000000)
+[Disc2] Epoch 0012/0100 : Loss : 1.352937 	 Accuracy : 0246/0600 (41.000000)
+[Clsfr] Epoch 0012/0100 : Loss : 1.413193 	 Accuracy : 0085/0300 (28.000000)
+[Dec] Epoch 0012/0100 : Loss : 0.278636
+[test] Loss : 1.393372 	 Accuracy : 0026/0100 (26.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0013/0100 : Loss : 1.321943 	 Accuracy : 0259/0600 (43.000000)
+[Disc2] Epoch 0013/0100 : Loss : 1.311288 	 Accuracy : 0241/0600 (40.000000)
+[Clsfr] Epoch 0013/0100 : Loss : 1.440152 	 Accuracy : 0072/0300 (24.000000)
+[Dec] Epoch 0013/0100 : Loss : 0.283918
+[test] Loss : 1.390279 	 Accuracy : 0027/0100 (27.000000)
+
+saving checkpoint for least loss =  1.3902791738510132
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0014/0100 : Loss : 1.327303 	 Accuracy : 0235/0600 (39.000000)
+[Disc2] Epoch 0014/0100 : Loss : 1.346455 	 Accuracy : 0216/0600 (36.000000)
+[Clsfr] Epoch 0014/0100 : Loss : 1.417388 	 Accuracy : 0087/0300 (29.000000)
+[Dec] Epoch 0014/0100 : Loss : 0.281077
+[test] Loss : 1.391258 	 Accuracy : 0027/0100 (27.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0015/0100 : Loss : 1.303625 	 Accuracy : 0241/0600 (40.000000)
+[Disc2] Epoch 0015/0100 : Loss : 1.342146 	 Accuracy : 0234/0600 (39.000000)
+[Clsfr] Epoch 0015/0100 : Loss : 1.444725 	 Accuracy : 0072/0300 (24.000000)
+[Dec] Epoch 0015/0100 : Loss : 0.277426
+[test] Loss : 1.385905 	 Accuracy : 0030/0100 (30.000000)
+
+saving checkpoint for least loss =  1.3859047889709473
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0016/0100 : Loss : 1.318589 	 Accuracy : 0241/0600 (40.000000)
+[Disc2] Epoch 0016/0100 : Loss : 1.309128 	 Accuracy : 0239/0600 (39.000000)
+[Clsfr] Epoch 0016/0100 : Loss : 1.428398 	 Accuracy : 0075/0300 (25.000000)
+[Dec] Epoch 0016/0100 : Loss : 0.265636
+[test] Loss : 1.384145 	 Accuracy : 0028/0100 (28.000000)
+
+saving checkpoint for least loss =  1.3841451406478882
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0017/0100 : Loss : 1.308576 	 Accuracy : 0253/0600 (42.000000)
+[Disc2] Epoch 0017/0100 : Loss : 1.290212 	 Accuracy : 0257/0600 (42.000000)
+[Clsfr] Epoch 0017/0100 : Loss : 1.419944 	 Accuracy : 0075/0300 (25.000000)
+[Dec] Epoch 0017/0100 : Loss : 0.264301
+[test] Loss : 1.381871 	 Accuracy : 0037/0100 (37.000000)
+
+saving checkpoint for least loss =  1.3818714618682861
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0018/0100 : Loss : 1.279779 	 Accuracy : 0269/0600 (44.000000)
+[Disc2] Epoch 0018/0100 : Loss : 1.259671 	 Accuracy : 0285/0600 (47.000000)
+[Clsfr] Epoch 0018/0100 : Loss : 1.426687 	 Accuracy : 0066/0300 (22.000000)
+[Dec] Epoch 0018/0100 : Loss : 0.253747
+[test] Loss : 1.378486 	 Accuracy : 0036/0100 (36.000000)
+
+saving checkpoint for least loss =  1.3784857988357544
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0019/0100 : Loss : 1.270117 	 Accuracy : 0291/0600 (48.000000)
+[Disc2] Epoch 0019/0100 : Loss : 1.288275 	 Accuracy : 0265/0600 (44.000000)
+[Clsfr] Epoch 0019/0100 : Loss : 1.390523 	 Accuracy : 0081/0300 (27.000000)
+[Dec] Epoch 0019/0100 : Loss : 0.248372
+[test] Loss : 1.378107 	 Accuracy : 0037/0100 (37.000000)
+
+saving checkpoint for least loss =  1.3781074285507202
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0020/0100 : Loss : 1.273945 	 Accuracy : 0267/0600 (44.000000)
+[Disc2] Epoch 0020/0100 : Loss : 1.244264 	 Accuracy : 0292/0600 (48.000000)
+[Clsfr] Epoch 0020/0100 : Loss : 1.390534 	 Accuracy : 0083/0300 (27.000000)
+[Dec] Epoch 0020/0100 : Loss : 0.250593
+[test] Loss : 1.377111 	 Accuracy : 0034/0100 (34.000000)
+
+saving checkpoint for least loss =  1.3771114349365234
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0021/0100 : Loss : 1.245928 	 Accuracy : 0312/0600 (52.000000)
+[Disc2] Epoch 0021/0100 : Loss : 1.255052 	 Accuracy : 0313/0600 (52.000000)
+[Clsfr] Epoch 0021/0100 : Loss : 1.372166 	 Accuracy : 0086/0300 (28.000000)
+[Dec] Epoch 0021/0100 : Loss : 0.241729
+[test] Loss : 1.376300 	 Accuracy : 0034/0100 (34.000000)
+
+saving checkpoint for least loss =  1.3763004541397095
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0022/0100 : Loss : 1.230476 	 Accuracy : 0307/0600 (51.000000)
+[Disc2] Epoch 0022/0100 : Loss : 1.203037 	 Accuracy : 0330/0600 (55.000000)
+[Clsfr] Epoch 0022/0100 : Loss : 1.390225 	 Accuracy : 0098/0300 (32.000000)
+[Dec] Epoch 0022/0100 : Loss : 0.229348
+[test] Loss : 1.377750 	 Accuracy : 0031/0100 (31.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0023/0100 : Loss : 1.224732 	 Accuracy : 0353/0600 (58.000000)
+[Disc2] Epoch 0023/0100 : Loss : 1.234960 	 Accuracy : 0343/0600 (57.000000)
+[Clsfr] Epoch 0023/0100 : Loss : 1.392963 	 Accuracy : 0089/0300 (29.000000)
+[Dec] Epoch 0023/0100 : Loss : 0.229791
+[test] Loss : 1.381769 	 Accuracy : 0033/0100 (33.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0024/0100 : Loss : 1.191705 	 Accuracy : 0328/0600 (54.000000)
+[Disc2] Epoch 0024/0100 : Loss : 1.193627 	 Accuracy : 0338/0600 (56.000000)
+[Clsfr] Epoch 0024/0100 : Loss : 1.415888 	 Accuracy : 0068/0300 (22.000000)
+[Dec] Epoch 0024/0100 : Loss : 0.223370
+[test] Loss : 1.381589 	 Accuracy : 0028/0100 (28.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0025/0100 : Loss : 1.168998 	 Accuracy : 0371/0600 (61.000000)
+[Disc2] Epoch 0025/0100 : Loss : 1.168114 	 Accuracy : 0383/0600 (63.000000)
+[Clsfr] Epoch 0025/0100 : Loss : 1.382972 	 Accuracy : 0099/0300 (33.000000)
+[Dec] Epoch 0025/0100 : Loss : 0.219468
+[test] Loss : 1.379421 	 Accuracy : 0028/0100 (28.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0026/0100 : Loss : 1.184980 	 Accuracy : 0343/0600 (57.000000)
+[Disc2] Epoch 0026/0100 : Loss : 1.187558 	 Accuracy : 0324/0600 (54.000000)
+[Clsfr] Epoch 0026/0100 : Loss : 1.402708 	 Accuracy : 0086/0300 (28.000000)
+[Dec] Epoch 0026/0100 : Loss : 0.208163
+[test] Loss : 1.379052 	 Accuracy : 0032/0100 (32.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0027/0100 : Loss : 1.174151 	 Accuracy : 0353/0600 (58.000000)
+[Disc2] Epoch 0027/0100 : Loss : 1.174200 	 Accuracy : 0357/0600 (59.000000)
+[Clsfr] Epoch 0027/0100 : Loss : 1.409988 	 Accuracy : 0094/0300 (31.000000)
+[Dec] Epoch 0027/0100 : Loss : 0.208472
+[test] Loss : 1.377881 	 Accuracy : 0032/0100 (32.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0028/0100 : Loss : 1.152910 	 Accuracy : 0370/0600 (61.000000)
+[Disc2] Epoch 0028/0100 : Loss : 1.149822 	 Accuracy : 0377/0600 (62.000000)
+[Clsfr] Epoch 0028/0100 : Loss : 1.406570 	 Accuracy : 0073/0300 (24.000000)
+[Dec] Epoch 0028/0100 : Loss : 0.202582
+[test] Loss : 1.377730 	 Accuracy : 0032/0100 (32.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0029/0100 : Loss : 1.126716 	 Accuracy : 0412/0600 (68.000000)
+[Disc2] Epoch 0029/0100 : Loss : 1.137645 	 Accuracy : 0398/0600 (66.000000)
+[Clsfr] Epoch 0029/0100 : Loss : 1.426156 	 Accuracy : 0076/0300 (25.000000)
+[Dec] Epoch 0029/0100 : Loss : 0.190416
+[test] Loss : 1.380550 	 Accuracy : 0031/0100 (31.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0030/0100 : Loss : 1.129909 	 Accuracy : 0399/0600 (66.000000)
+[Disc2] Epoch 0030/0100 : Loss : 1.114599 	 Accuracy : 0434/0600 (72.000000)
+[Clsfr] Epoch 0030/0100 : Loss : 1.382802 	 Accuracy : 0088/0300 (29.000000)
+[Dec] Epoch 0030/0100 : Loss : 0.197597
+[test] Loss : 1.379340 	 Accuracy : 0033/0100 (33.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0031/0100 : Loss : 1.090261 	 Accuracy : 0428/0600 (71.000000)
+[Disc2] Epoch 0031/0100 : Loss : 1.084057 	 Accuracy : 0444/0600 (74.000000)
+[Clsfr] Epoch 0031/0100 : Loss : 1.401831 	 Accuracy : 0094/0300 (31.000000)
+[Dec] Epoch 0031/0100 : Loss : 0.195385
+[test] Loss : 1.372188 	 Accuracy : 0036/0100 (36.000000)
+
+saving checkpoint for least loss =  1.3721883296966553
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0032/0100 : Loss : 1.099883 	 Accuracy : 0430/0600 (71.000000)
+[Disc2] Epoch 0032/0100 : Loss : 1.079908 	 Accuracy : 0434/0600 (72.000000)
+[Clsfr] Epoch 0032/0100 : Loss : 1.390350 	 Accuracy : 0077/0300 (25.000000)
+[Dec] Epoch 0032/0100 : Loss : 0.191603
+[test] Loss : 1.368892 	 Accuracy : 0036/0100 (36.000000)
+
+saving checkpoint for least loss =  1.3688921928405762
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0033/0100 : Loss : 1.060554 	 Accuracy : 0455/0600 (75.000000)
+[Disc2] Epoch 0033/0100 : Loss : 1.083130 	 Accuracy : 0418/0600 (69.000000)
+[Clsfr] Epoch 0033/0100 : Loss : 1.375841 	 Accuracy : 0093/0300 (31.000000)
+[Dec] Epoch 0033/0100 : Loss : 0.193322
+[test] Loss : 1.370357 	 Accuracy : 0037/0100 (37.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0034/0100 : Loss : 1.065482 	 Accuracy : 0440/0600 (73.000000)
+[Disc2] Epoch 0034/0100 : Loss : 1.072558 	 Accuracy : 0421/0600 (70.000000)
+[Clsfr] Epoch 0034/0100 : Loss : 1.403780 	 Accuracy : 0091/0300 (30.000000)
+[Dec] Epoch 0034/0100 : Loss : 0.187508
+[test] Loss : 1.374776 	 Accuracy : 0031/0100 (31.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0035/0100 : Loss : 1.040314 	 Accuracy : 0457/0600 (76.000000)
+[Disc2] Epoch 0035/0100 : Loss : 1.019514 	 Accuracy : 0472/0600 (78.000000)
+[Clsfr] Epoch 0035/0100 : Loss : 1.406313 	 Accuracy : 0076/0300 (25.000000)
+[Dec] Epoch 0035/0100 : Loss : 0.182190
+[test] Loss : 1.373425 	 Accuracy : 0036/0100 (36.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0036/0100 : Loss : 1.051641 	 Accuracy : 0461/0600 (76.000000)
+[Disc2] Epoch 0036/0100 : Loss : 1.044960 	 Accuracy : 0452/0600 (75.000000)
+[Clsfr] Epoch 0036/0100 : Loss : 1.364305 	 Accuracy : 0099/0300 (33.000000)
+[Dec] Epoch 0036/0100 : Loss : 0.182282
+[test] Loss : 1.372408 	 Accuracy : 0036/0100 (36.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0037/0100 : Loss : 0.999057 	 Accuracy : 0474/0600 (79.000000)
+[Disc2] Epoch 0037/0100 : Loss : 1.007398 	 Accuracy : 0477/0600 (79.000000)
+[Clsfr] Epoch 0037/0100 : Loss : 1.392568 	 Accuracy : 0090/0300 (30.000000)
+[Dec] Epoch 0037/0100 : Loss : 0.176935
+[test] Loss : 1.368757 	 Accuracy : 0036/0100 (36.000000)
+
+saving checkpoint for least loss =  1.368756651878357
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0038/0100 : Loss : 0.984570 	 Accuracy : 0479/0600 (79.000000)
+[Disc2] Epoch 0038/0100 : Loss : 1.003270 	 Accuracy : 0481/0600 (80.000000)
+[Clsfr] Epoch 0038/0100 : Loss : 1.371232 	 Accuracy : 0094/0300 (31.000000)
+[Dec] Epoch 0038/0100 : Loss : 0.162830
+[test] Loss : 1.367974 	 Accuracy : 0034/0100 (34.000000)
+
+saving checkpoint for least loss =  1.3679735660552979
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0039/0100 : Loss : 0.977614 	 Accuracy : 0478/0600 (79.000000)
+[Disc2] Epoch 0039/0100 : Loss : 0.982801 	 Accuracy : 0475/0600 (79.000000)
+[Clsfr] Epoch 0039/0100 : Loss : 1.394909 	 Accuracy : 0083/0300 (27.000000)
+[Dec] Epoch 0039/0100 : Loss : 0.165780
+[test] Loss : 1.372231 	 Accuracy : 0033/0100 (33.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0040/0100 : Loss : 0.955544 	 Accuracy : 0479/0600 (79.000000)
+[Disc2] Epoch 0040/0100 : Loss : 0.979124 	 Accuracy : 0478/0600 (79.000000)
+[Clsfr] Epoch 0040/0100 : Loss : 1.364572 	 Accuracy : 0091/0300 (30.000000)
+[Dec] Epoch 0040/0100 : Loss : 0.158760
+[test] Loss : 1.372389 	 Accuracy : 0034/0100 (34.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0041/0100 : Loss : 0.968497 	 Accuracy : 0492/0600 (82.000000)
+[Disc2] Epoch 0041/0100 : Loss : 0.936829 	 Accuracy : 0497/0600 (82.000000)
+[Clsfr] Epoch 0041/0100 : Loss : 1.389664 	 Accuracy : 0082/0300 (27.000000)
+[Dec] Epoch 0041/0100 : Loss : 0.163264
+[test] Loss : 1.372822 	 Accuracy : 0039/0100 (39.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0042/0100 : Loss : 0.935373 	 Accuracy : 0492/0600 (82.000000)
+[Disc2] Epoch 0042/0100 : Loss : 0.949849 	 Accuracy : 0481/0600 (80.000000)
+[Clsfr] Epoch 0042/0100 : Loss : 1.352240 	 Accuracy : 0096/0300 (32.000000)
+[Dec] Epoch 0042/0100 : Loss : 0.158572
+[test] Loss : 1.369886 	 Accuracy : 0036/0100 (36.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0043/0100 : Loss : 0.945927 	 Accuracy : 0486/0600 (81.000000)
+[Disc2] Epoch 0043/0100 : Loss : 0.923003 	 Accuracy : 0501/0600 (83.000000)
+[Clsfr] Epoch 0043/0100 : Loss : 1.369167 	 Accuracy : 0094/0300 (31.000000)
+[Dec] Epoch 0043/0100 : Loss : 0.158255
+[test] Loss : 1.371910 	 Accuracy : 0036/0100 (36.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0044/0100 : Loss : 0.896523 	 Accuracy : 0507/0600 (84.000000)
+[Disc2] Epoch 0044/0100 : Loss : 0.923757 	 Accuracy : 0500/0600 (83.000000)
+[Clsfr] Epoch 0044/0100 : Loss : 1.362497 	 Accuracy : 0106/0300 (35.000000)
+[Dec] Epoch 0044/0100 : Loss : 0.154044
+[test] Loss : 1.370631 	 Accuracy : 0039/0100 (39.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0045/0100 : Loss : 0.886015 	 Accuracy : 0510/0600 (85.000000)
+[Disc2] Epoch 0045/0100 : Loss : 0.886062 	 Accuracy : 0513/0600 (85.000000)
+[Clsfr] Epoch 0045/0100 : Loss : 1.353512 	 Accuracy : 0101/0300 (33.000000)
+[Dec] Epoch 0045/0100 : Loss : 0.146390
+[test] Loss : 1.369525 	 Accuracy : 0037/0100 (37.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0046/0100 : Loss : 0.881152 	 Accuracy : 0516/0600 (86.000000)
+[Disc2] Epoch 0046/0100 : Loss : 0.892897 	 Accuracy : 0501/0600 (83.000000)
+[Clsfr] Epoch 0046/0100 : Loss : 1.353998 	 Accuracy : 0095/0300 (31.000000)
+[Dec] Epoch 0046/0100 : Loss : 0.147773
+[test] Loss : 1.372077 	 Accuracy : 0033/0100 (33.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0047/0100 : Loss : 0.863970 	 Accuracy : 0508/0600 (84.000000)
+[Disc2] Epoch 0047/0100 : Loss : 0.870557 	 Accuracy : 0518/0600 (86.000000)
+[Clsfr] Epoch 0047/0100 : Loss : 1.353611 	 Accuracy : 0090/0300 (30.000000)
+[Dec] Epoch 0047/0100 : Loss : 0.151198
+[test] Loss : 1.374268 	 Accuracy : 0036/0100 (36.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0048/0100 : Loss : 0.876994 	 Accuracy : 0513/0600 (85.000000)
+[Disc2] Epoch 0048/0100 : Loss : 0.888875 	 Accuracy : 0504/0600 (84.000000)
+[Clsfr] Epoch 0048/0100 : Loss : 1.350378 	 Accuracy : 0106/0300 (35.000000)
+[Dec] Epoch 0048/0100 : Loss : 0.156343
+[test] Loss : 1.377202 	 Accuracy : 0038/0100 (38.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0049/0100 : Loss : 0.841430 	 Accuracy : 0524/0600 (87.000000)
+[Disc2] Epoch 0049/0100 : Loss : 0.823948 	 Accuracy : 0527/0600 (87.000000)
+[Clsfr] Epoch 0049/0100 : Loss : 1.352014 	 Accuracy : 0098/0300 (32.000000)
+[Dec] Epoch 0049/0100 : Loss : 0.141950
+[test] Loss : 1.368280 	 Accuracy : 0035/0100 (35.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0050/0100 : Loss : 0.833033 	 Accuracy : 0515/0600 (85.000000)
+[Disc2] Epoch 0050/0100 : Loss : 0.806632 	 Accuracy : 0525/0600 (87.000000)
+[Clsfr] Epoch 0050/0100 : Loss : 1.374455 	 Accuracy : 0083/0300 (27.000000)
+[Dec] Epoch 0050/0100 : Loss : 0.142761
+[test] Loss : 1.366004 	 Accuracy : 0037/0100 (37.000000)
+
+saving checkpoint for least loss =  1.3660041093826294
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0051/0100 : Loss : 0.833877 	 Accuracy : 0510/0600 (85.000000)
+[Disc2] Epoch 0051/0100 : Loss : 0.814915 	 Accuracy : 0533/0600 (88.000000)
+[Clsfr] Epoch 0051/0100 : Loss : 1.341338 	 Accuracy : 0099/0300 (33.000000)
+[Dec] Epoch 0051/0100 : Loss : 0.139915
+[test] Loss : 1.369222 	 Accuracy : 0035/0100 (35.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0052/0100 : Loss : 0.818201 	 Accuracy : 0512/0600 (85.000000)
+[Disc2] Epoch 0052/0100 : Loss : 0.805379 	 Accuracy : 0531/0600 (88.000000)
+[Clsfr] Epoch 0052/0100 : Loss : 1.322777 	 Accuracy : 0104/0300 (34.000000)
+[Dec] Epoch 0052/0100 : Loss : 0.146936
+[test] Loss : 1.365257 	 Accuracy : 0036/0100 (36.000000)
+
+saving checkpoint for least loss =  1.365256667137146
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0053/0100 : Loss : 0.779962 	 Accuracy : 0527/0600 (87.000000)
+[Disc2] Epoch 0053/0100 : Loss : 0.775991 	 Accuracy : 0548/0600 (91.000000)
+[Clsfr] Epoch 0053/0100 : Loss : 1.349728 	 Accuracy : 0104/0300 (34.000000)
+[Dec] Epoch 0053/0100 : Loss : 0.136802
+[test] Loss : 1.362697 	 Accuracy : 0038/0100 (38.000000)
+
+saving checkpoint for least loss =  1.3626970052719116
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0054/0100 : Loss : 0.780858 	 Accuracy : 0546/0600 (91.000000)
+[Disc2] Epoch 0054/0100 : Loss : 0.760539 	 Accuracy : 0535/0600 (89.000000)
+[Clsfr] Epoch 0054/0100 : Loss : 1.365195 	 Accuracy : 0092/0300 (30.000000)
+[Dec] Epoch 0054/0100 : Loss : 0.130141
+[test] Loss : 1.359749 	 Accuracy : 0039/0100 (39.000000)
+
+saving checkpoint for least loss =  1.3597486019134521
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0055/0100 : Loss : 0.774684 	 Accuracy : 0532/0600 (88.000000)
+[Disc2] Epoch 0055/0100 : Loss : 0.753356 	 Accuracy : 0532/0600 (88.000000)
+[Clsfr] Epoch 0055/0100 : Loss : 1.374236 	 Accuracy : 0097/0300 (32.000000)
+[Dec] Epoch 0055/0100 : Loss : 0.132417
+[test] Loss : 1.363736 	 Accuracy : 0035/0100 (35.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0056/0100 : Loss : 0.745749 	 Accuracy : 0538/0600 (89.000000)
+[Disc2] Epoch 0056/0100 : Loss : 0.776535 	 Accuracy : 0528/0600 (88.000000)
+[Clsfr] Epoch 0056/0100 : Loss : 1.338365 	 Accuracy : 0101/0300 (33.000000)
+[Dec] Epoch 0056/0100 : Loss : 0.135247
+[test] Loss : 1.366267 	 Accuracy : 0037/0100 (37.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0057/0100 : Loss : 0.758788 	 Accuracy : 0535/0600 (89.000000)
+[Disc2] Epoch 0057/0100 : Loss : 0.730679 	 Accuracy : 0538/0600 (89.000000)
+[Clsfr] Epoch 0057/0100 : Loss : 1.294903 	 Accuracy : 0119/0300 (39.000000)
+[Dec] Epoch 0057/0100 : Loss : 0.131943
+[test] Loss : 1.362415 	 Accuracy : 0039/0100 (39.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0058/0100 : Loss : 0.718994 	 Accuracy : 0544/0600 (90.000000)
+[Disc2] Epoch 0058/0100 : Loss : 0.719204 	 Accuracy : 0547/0600 (91.000000)
+[Clsfr] Epoch 0058/0100 : Loss : 1.356647 	 Accuracy : 0101/0300 (33.000000)
+[Dec] Epoch 0058/0100 : Loss : 0.129571
+[test] Loss : 1.364379 	 Accuracy : 0037/0100 (37.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0059/0100 : Loss : 0.715980 	 Accuracy : 0542/0600 (90.000000)
+[Disc2] Epoch 0059/0100 : Loss : 0.694282 	 Accuracy : 0539/0600 (89.000000)
+[Clsfr] Epoch 0059/0100 : Loss : 1.349205 	 Accuracy : 0096/0300 (32.000000)
+[Dec] Epoch 0059/0100 : Loss : 0.130984
+[test] Loss : 1.366096 	 Accuracy : 0039/0100 (39.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0060/0100 : Loss : 0.692448 	 Accuracy : 0548/0600 (91.000000)
+[Disc2] Epoch 0060/0100 : Loss : 0.716541 	 Accuracy : 0544/0600 (90.000000)
+[Clsfr] Epoch 0060/0100 : Loss : 1.382406 	 Accuracy : 0093/0300 (31.000000)
+[Dec] Epoch 0060/0100 : Loss : 0.126551
+[test] Loss : 1.366907 	 Accuracy : 0037/0100 (37.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0061/0100 : Loss : 0.718643 	 Accuracy : 0545/0600 (90.000000)
+[Disc2] Epoch 0061/0100 : Loss : 0.685822 	 Accuracy : 0545/0600 (90.000000)
+[Clsfr] Epoch 0061/0100 : Loss : 1.333662 	 Accuracy : 0094/0300 (31.000000)
+[Dec] Epoch 0061/0100 : Loss : 0.126360
+[test] Loss : 1.364634 	 Accuracy : 0039/0100 (39.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0062/0100 : Loss : 0.728079 	 Accuracy : 0529/0600 (88.000000)
+[Disc2] Epoch 0062/0100 : Loss : 0.689160 	 Accuracy : 0554/0600 (92.000000)
+[Clsfr] Epoch 0062/0100 : Loss : 1.330388 	 Accuracy : 0107/0300 (35.000000)
+[Dec] Epoch 0062/0100 : Loss : 0.125168
+[test] Loss : 1.361859 	 Accuracy : 0041/0100 (41.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0063/0100 : Loss : 0.669857 	 Accuracy : 0544/0600 (90.000000)
+[Disc2] Epoch 0063/0100 : Loss : 0.687659 	 Accuracy : 0548/0600 (91.000000)
+[Clsfr] Epoch 0063/0100 : Loss : 1.359773 	 Accuracy : 0095/0300 (31.000000)
+[Dec] Epoch 0063/0100 : Loss : 0.126790
+[test] Loss : 1.365096 	 Accuracy : 0037/0100 (37.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0064/0100 : Loss : 0.655472 	 Accuracy : 0552/0600 (92.000000)
+[Disc2] Epoch 0064/0100 : Loss : 0.666300 	 Accuracy : 0545/0600 (90.000000)
+[Clsfr] Epoch 0064/0100 : Loss : 1.320073 	 Accuracy : 0106/0300 (35.000000)
+[Dec] Epoch 0064/0100 : Loss : 0.122325
+[test] Loss : 1.366284 	 Accuracy : 0040/0100 (40.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0065/0100 : Loss : 0.652766 	 Accuracy : 0559/0600 (93.000000)
+[Disc2] Epoch 0065/0100 : Loss : 0.676395 	 Accuracy : 0528/0600 (88.000000)
+[Clsfr] Epoch 0065/0100 : Loss : 1.338776 	 Accuracy : 0105/0300 (35.000000)
+[Dec] Epoch 0065/0100 : Loss : 0.124479
+[test] Loss : 1.366007 	 Accuracy : 0042/0100 (42.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0066/0100 : Loss : 0.650995 	 Accuracy : 0550/0600 (91.000000)
+[Disc2] Epoch 0066/0100 : Loss : 0.640992 	 Accuracy : 0551/0600 (91.000000)
+[Clsfr] Epoch 0066/0100 : Loss : 1.327012 	 Accuracy : 0095/0300 (31.000000)
+[Dec] Epoch 0066/0100 : Loss : 0.119918
+[test] Loss : 1.362590 	 Accuracy : 0039/0100 (39.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0067/0100 : Loss : 0.657935 	 Accuracy : 0553/0600 (92.000000)
+[Disc2] Epoch 0067/0100 : Loss : 0.629733 	 Accuracy : 0555/0600 (92.000000)
+[Clsfr] Epoch 0067/0100 : Loss : 1.343585 	 Accuracy : 0099/0300 (33.000000)
+[Dec] Epoch 0067/0100 : Loss : 0.125489
+[test] Loss : 1.358013 	 Accuracy : 0043/0100 (43.000000)
+
+saving checkpoint for least loss =  1.3580131530761719
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0068/0100 : Loss : 0.625152 	 Accuracy : 0554/0600 (92.000000)
+[Disc2] Epoch 0068/0100 : Loss : 0.614516 	 Accuracy : 0549/0600 (91.000000)
+[Clsfr] Epoch 0068/0100 : Loss : 1.315031 	 Accuracy : 0110/0300 (36.000000)
+[Dec] Epoch 0068/0100 : Loss : 0.127065
+[test] Loss : 1.358562 	 Accuracy : 0040/0100 (40.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0069/0100 : Loss : 0.603219 	 Accuracy : 0560/0600 (93.000000)
+[Disc2] Epoch 0069/0100 : Loss : 0.618272 	 Accuracy : 0547/0600 (91.000000)
+[Clsfr] Epoch 0069/0100 : Loss : 1.308279 	 Accuracy : 0110/0300 (36.000000)
+[Dec] Epoch 0069/0100 : Loss : 0.125345
+[test] Loss : 1.355770 	 Accuracy : 0042/0100 (42.000000)
+
+saving checkpoint for least loss =  1.3557695150375366
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0070/0100 : Loss : 0.588553 	 Accuracy : 0561/0600 (93.000000)
+[Disc2] Epoch 0070/0100 : Loss : 0.608338 	 Accuracy : 0552/0600 (92.000000)
+[Clsfr] Epoch 0070/0100 : Loss : 1.352142 	 Accuracy : 0105/0300 (35.000000)
+[Dec] Epoch 0070/0100 : Loss : 0.123325
+[test] Loss : 1.353554 	 Accuracy : 0041/0100 (41.000000)
+
+saving checkpoint for least loss =  1.353554368019104
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0071/0100 : Loss : 0.610368 	 Accuracy : 0543/0600 (90.000000)
+[Disc2] Epoch 0071/0100 : Loss : 0.607895 	 Accuracy : 0551/0600 (91.000000)
+[Clsfr] Epoch 0071/0100 : Loss : 1.337794 	 Accuracy : 0107/0300 (35.000000)
+[Dec] Epoch 0071/0100 : Loss : 0.120580
+[test] Loss : 1.353856 	 Accuracy : 0041/0100 (41.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0072/0100 : Loss : 0.586481 	 Accuracy : 0560/0600 (93.000000)
+[Disc2] Epoch 0072/0100 : Loss : 0.591477 	 Accuracy : 0549/0600 (91.000000)
+[Clsfr] Epoch 0072/0100 : Loss : 1.356447 	 Accuracy : 0101/0300 (33.000000)
+[Dec] Epoch 0072/0100 : Loss : 0.116849
+[test] Loss : 1.348983 	 Accuracy : 0043/0100 (43.000000)
+
+saving checkpoint for least loss =  1.348982810974121
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0073/0100 : Loss : 0.594102 	 Accuracy : 0547/0600 (91.000000)
+[Disc2] Epoch 0073/0100 : Loss : 0.577735 	 Accuracy : 0554/0600 (92.000000)
+[Clsfr] Epoch 0073/0100 : Loss : 1.313248 	 Accuracy : 0107/0300 (35.000000)
+[Dec] Epoch 0073/0100 : Loss : 0.125468
+[test] Loss : 1.352340 	 Accuracy : 0043/0100 (43.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0074/0100 : Loss : 0.588778 	 Accuracy : 0544/0600 (90.000000)
+[Disc2] Epoch 0074/0100 : Loss : 0.557042 	 Accuracy : 0561/0600 (93.000000)
+[Clsfr] Epoch 0074/0100 : Loss : 1.335544 	 Accuracy : 0108/0300 (36.000000)
+[Dec] Epoch 0074/0100 : Loss : 0.116170
+[test] Loss : 1.346044 	 Accuracy : 0043/0100 (43.000000)
+
+saving checkpoint for least loss =  1.3460437059402466
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0075/0100 : Loss : 0.559592 	 Accuracy : 0556/0600 (92.000000)
+[Disc2] Epoch 0075/0100 : Loss : 0.597615 	 Accuracy : 0544/0600 (90.000000)
+[Clsfr] Epoch 0075/0100 : Loss : 1.311551 	 Accuracy : 0110/0300 (36.000000)
+[Dec] Epoch 0075/0100 : Loss : 0.119010
+[test] Loss : 1.354220 	 Accuracy : 0040/0100 (40.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0076/0100 : Loss : 0.566297 	 Accuracy : 0551/0600 (91.000000)
+[Disc2] Epoch 0076/0100 : Loss : 0.551585 	 Accuracy : 0555/0600 (92.000000)
+[Clsfr] Epoch 0076/0100 : Loss : 1.328204 	 Accuracy : 0114/0300 (38.000000)
+[Dec] Epoch 0076/0100 : Loss : 0.119343
+[test] Loss : 1.347707 	 Accuracy : 0043/0100 (43.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0077/0100 : Loss : 0.546151 	 Accuracy : 0555/0600 (92.000000)
+[Disc2] Epoch 0077/0100 : Loss : 0.534999 	 Accuracy : 0560/0600 (93.000000)
+[Clsfr] Epoch 0077/0100 : Loss : 1.305035 	 Accuracy : 0113/0300 (37.000000)
+[Dec] Epoch 0077/0100 : Loss : 0.118670
+[test] Loss : 1.350288 	 Accuracy : 0042/0100 (42.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0078/0100 : Loss : 0.519770 	 Accuracy : 0559/0600 (93.000000)
+[Disc2] Epoch 0078/0100 : Loss : 0.550264 	 Accuracy : 0554/0600 (92.000000)
+[Clsfr] Epoch 0078/0100 : Loss : 1.297764 	 Accuracy : 0114/0300 (38.000000)
+[Dec] Epoch 0078/0100 : Loss : 0.116004
+[test] Loss : 1.345254 	 Accuracy : 0041/0100 (41.000000)
+
+saving checkpoint for least loss =  1.3452541828155518
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0079/0100 : Loss : 0.522646 	 Accuracy : 0564/0600 (94.000000)
+[Disc2] Epoch 0079/0100 : Loss : 0.487475 	 Accuracy : 0570/0600 (95.000000)
+[Clsfr] Epoch 0079/0100 : Loss : 1.314089 	 Accuracy : 0107/0300 (35.000000)
+[Dec] Epoch 0079/0100 : Loss : 0.116799
+[test] Loss : 1.346485 	 Accuracy : 0040/0100 (40.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0080/0100 : Loss : 0.526241 	 Accuracy : 0563/0600 (93.000000)
+[Disc2] Epoch 0080/0100 : Loss : 0.542977 	 Accuracy : 0561/0600 (93.000000)
+[Clsfr] Epoch 0080/0100 : Loss : 1.309726 	 Accuracy : 0104/0300 (34.000000)
+[Dec] Epoch 0080/0100 : Loss : 0.119284
+[test] Loss : 1.348691 	 Accuracy : 0045/0100 (45.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0081/0100 : Loss : 0.543742 	 Accuracy : 0558/0600 (93.000000)
+[Disc2] Epoch 0081/0100 : Loss : 0.499989 	 Accuracy : 0561/0600 (93.000000)
+[Clsfr] Epoch 0081/0100 : Loss : 1.299253 	 Accuracy : 0106/0300 (35.000000)
+[Dec] Epoch 0081/0100 : Loss : 0.115569
+[test] Loss : 1.349239 	 Accuracy : 0045/0100 (45.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0082/0100 : Loss : 0.507297 	 Accuracy : 0567/0600 (94.000000)
+[Disc2] Epoch 0082/0100 : Loss : 0.506733 	 Accuracy : 0561/0600 (93.000000)
+[Clsfr] Epoch 0082/0100 : Loss : 1.287146 	 Accuracy : 0126/0300 (42.000000)
+[Dec] Epoch 0082/0100 : Loss : 0.113835
+[test] Loss : 1.347976 	 Accuracy : 0043/0100 (43.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0083/0100 : Loss : 0.505567 	 Accuracy : 0557/0600 (92.000000)
+[Disc2] Epoch 0083/0100 : Loss : 0.510215 	 Accuracy : 0552/0600 (92.000000)
+[Clsfr] Epoch 0083/0100 : Loss : 1.346076 	 Accuracy : 0096/0300 (32.000000)
+[Dec] Epoch 0083/0100 : Loss : 0.115363
+[test] Loss : 1.347294 	 Accuracy : 0042/0100 (42.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0084/0100 : Loss : 0.462202 	 Accuracy : 0568/0600 (94.000000)
+[Disc2] Epoch 0084/0100 : Loss : 0.492252 	 Accuracy : 0572/0600 (95.000000)
+[Clsfr] Epoch 0084/0100 : Loss : 1.295559 	 Accuracy : 0113/0300 (37.000000)
+[Dec] Epoch 0084/0100 : Loss : 0.115654
+[test] Loss : 1.348465 	 Accuracy : 0040/0100 (40.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0085/0100 : Loss : 0.509532 	 Accuracy : 0556/0600 (92.000000)
+[Disc2] Epoch 0085/0100 : Loss : 0.484116 	 Accuracy : 0555/0600 (92.000000)
+[Clsfr] Epoch 0085/0100 : Loss : 1.325858 	 Accuracy : 0103/0300 (34.000000)
+[Dec] Epoch 0085/0100 : Loss : 0.109273
+[test] Loss : 1.349449 	 Accuracy : 0042/0100 (42.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0086/0100 : Loss : 0.481657 	 Accuracy : 0561/0600 (93.000000)
+[Disc2] Epoch 0086/0100 : Loss : 0.442509 	 Accuracy : 0575/0600 (95.000000)
+[Clsfr] Epoch 0086/0100 : Loss : 1.281369 	 Accuracy : 0111/0300 (37.000000)
+[Dec] Epoch 0086/0100 : Loss : 0.110411
+[test] Loss : 1.351581 	 Accuracy : 0044/0100 (44.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0087/0100 : Loss : 0.472580 	 Accuracy : 0569/0600 (94.000000)
+[Disc2] Epoch 0087/0100 : Loss : 0.455273 	 Accuracy : 0572/0600 (95.000000)
+[Clsfr] Epoch 0087/0100 : Loss : 1.297316 	 Accuracy : 0116/0300 (38.000000)
+[Dec] Epoch 0087/0100 : Loss : 0.114458
+[test] Loss : 1.349275 	 Accuracy : 0044/0100 (44.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0088/0100 : Loss : 0.459244 	 Accuracy : 0568/0600 (94.000000)
+[Disc2] Epoch 0088/0100 : Loss : 0.472608 	 Accuracy : 0550/0600 (91.000000)
+[Clsfr] Epoch 0088/0100 : Loss : 1.277670 	 Accuracy : 0124/0300 (41.000000)
+[Dec] Epoch 0088/0100 : Loss : 0.115048
+[test] Loss : 1.348852 	 Accuracy : 0038/0100 (38.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0089/0100 : Loss : 0.458390 	 Accuracy : 0558/0600 (93.000000)
+[Disc2] Epoch 0089/0100 : Loss : 0.475407 	 Accuracy : 0556/0600 (92.000000)
+[Clsfr] Epoch 0089/0100 : Loss : 1.320125 	 Accuracy : 0108/0300 (36.000000)
+[Dec] Epoch 0089/0100 : Loss : 0.110839
+[test] Loss : 1.347638 	 Accuracy : 0040/0100 (40.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0090/0100 : Loss : 0.455236 	 Accuracy : 0565/0600 (94.000000)
+[Disc2] Epoch 0090/0100 : Loss : 0.455839 	 Accuracy : 0558/0600 (93.000000)
+[Clsfr] Epoch 0090/0100 : Loss : 1.279644 	 Accuracy : 0118/0300 (39.000000)
+[Dec] Epoch 0090/0100 : Loss : 0.110789
+[test] Loss : 1.346226 	 Accuracy : 0040/0100 (40.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0091/0100 : Loss : 0.430170 	 Accuracy : 0564/0600 (94.000000)
+[Disc2] Epoch 0091/0100 : Loss : 0.441964 	 Accuracy : 0560/0600 (93.000000)
+[Clsfr] Epoch 0091/0100 : Loss : 1.284969 	 Accuracy : 0117/0300 (39.000000)
+[Dec] Epoch 0091/0100 : Loss : 0.105409
+[test] Loss : 1.349517 	 Accuracy : 0042/0100 (42.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0092/0100 : Loss : 0.436157 	 Accuracy : 0565/0600 (94.000000)
+[Disc2] Epoch 0092/0100 : Loss : 0.416868 	 Accuracy : 0572/0600 (95.000000)
+[Clsfr] Epoch 0092/0100 : Loss : 1.312482 	 Accuracy : 0107/0300 (35.000000)
+[Dec] Epoch 0092/0100 : Loss : 0.112393
+[test] Loss : 1.350498 	 Accuracy : 0042/0100 (42.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0093/0100 : Loss : 0.441408 	 Accuracy : 0564/0600 (94.000000)
+[Disc2] Epoch 0093/0100 : Loss : 0.409967 	 Accuracy : 0574/0600 (95.000000)
+[Clsfr] Epoch 0093/0100 : Loss : 1.291547 	 Accuracy : 0117/0300 (39.000000)
+[Dec] Epoch 0093/0100 : Loss : 0.108959
+[test] Loss : 1.350856 	 Accuracy : 0042/0100 (42.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0094/0100 : Loss : 0.432725 	 Accuracy : 0563/0600 (93.000000)
+[Disc2] Epoch 0094/0100 : Loss : 0.429557 	 Accuracy : 0570/0600 (95.000000)
+[Clsfr] Epoch 0094/0100 : Loss : 1.303495 	 Accuracy : 0110/0300 (36.000000)
+[Dec] Epoch 0094/0100 : Loss : 0.112702
+[test] Loss : 1.352757 	 Accuracy : 0042/0100 (42.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0095/0100 : Loss : 0.422566 	 Accuracy : 0565/0600 (94.000000)
+[Disc2] Epoch 0095/0100 : Loss : 0.407242 	 Accuracy : 0571/0600 (95.000000)
+[Clsfr] Epoch 0095/0100 : Loss : 1.280623 	 Accuracy : 0122/0300 (40.000000)
+[Dec] Epoch 0095/0100 : Loss : 0.112017
+[test] Loss : 1.352218 	 Accuracy : 0043/0100 (43.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0096/0100 : Loss : 0.440324 	 Accuracy : 0562/0600 (93.000000)
+[Disc2] Epoch 0096/0100 : Loss : 0.425639 	 Accuracy : 0569/0600 (94.000000)
+[Clsfr] Epoch 0096/0100 : Loss : 1.304375 	 Accuracy : 0110/0300 (36.000000)
+[Dec] Epoch 0096/0100 : Loss : 0.106576
+[test] Loss : 1.353946 	 Accuracy : 0042/0100 (42.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0097/0100 : Loss : 0.399306 	 Accuracy : 0563/0600 (93.000000)
+[Disc2] Epoch 0097/0100 : Loss : 0.421880 	 Accuracy : 0560/0600 (93.000000)
+[Clsfr] Epoch 0097/0100 : Loss : 1.279080 	 Accuracy : 0126/0300 (42.000000)
+[Dec] Epoch 0097/0100 : Loss : 0.104905
+[test] Loss : 1.359958 	 Accuracy : 0042/0100 (42.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0098/0100 : Loss : 0.412090 	 Accuracy : 0560/0600 (93.000000)
+[Disc2] Epoch 0098/0100 : Loss : 0.401040 	 Accuracy : 0574/0600 (95.000000)
+[Clsfr] Epoch 0098/0100 : Loss : 1.273453 	 Accuracy : 0122/0300 (40.000000)
+[Dec] Epoch 0098/0100 : Loss : 0.110075
+[test] Loss : 1.358441 	 Accuracy : 0041/0100 (41.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0099/0100 : Loss : 0.384809 	 Accuracy : 0565/0600 (94.000000)
+[Disc2] Epoch 0099/0100 : Loss : 0.366126 	 Accuracy : 0575/0600 (95.000000)
+[Clsfr] Epoch 0099/0100 : Loss : 1.277705 	 Accuracy : 0118/0300 (39.000000)
+[Dec] Epoch 0099/0100 : Loss : 0.110951
+[test] Loss : 1.354260 	 Accuracy : 0042/0100 (42.000000)
+
+Using 0300/0300 (100.000000) points
+[Disc1] Epoch 0100/0100 : Loss : 0.398299 	 Accuracy : 0572/0600 (95.000000)
+[Disc2] Epoch 0100/0100 : Loss : 0.400450 	 Accuracy : 0570/0600 (95.000000)
+[Clsfr] Epoch 0100/0100 : Loss : 1.295118 	 Accuracy : 0104/0300 (34.000000)
+[Dec] Epoch 0100/0100 : Loss : 0.108498
+[test] Loss : 1.356471 	 Accuracy : 0043/0100 (43.000000)
+
+[[-0.10828874 -0.11897881 -0.05863179 ... -0.2086223  -0.04764139
+  -0.13994804]
+ [-0.07563226  0.13623308 -0.04289126 ...  0.13087639  0.09988037
+   0.11613671]
+ [ 0.01139932  0.0666649   0.12549151 ... -0.0572109   0.11003794
+  -0.11071277]
+ ...
+ [-0.05728622 -0.14716959  0.13172524 ...  0.19066443  0.16201498
+   0.15050213]
+ [-0.00596499 -0.19314829 -0.07092699 ...  0.27306557  0.22585844
+   0.12137093]
+ [-0.05257846  0.03193347  0.03088628 ...  0.12097563 -0.08051413
+   0.0644292 ]] 100
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3] 100
+[[ 3.9402926  4.0060515  4.0015655 ...  3.8328583  4.065549   3.7782054]
+ [ 3.875832   4.038009   4.0339146 ...  3.916842   3.8962903  3.9390585]
+ [ 4.0889344  3.948251   4.1640806 ...  4.144781   3.8965437  3.962824 ]
+ ...
+ [-3.9585476 -4.078492  -4.098297  ... -3.9552248 -4.0579953 -3.9592452]
+ [-4.168585  -4.000835  -3.9147499 ... -4.1004543 -4.03109   -4.0110106]
+ [-3.9418244 -4.035184  -3.8588104 ... -4.0077615 -4.1274915 -3.8985856]]
+
+Using Indices [654, 114, 25, 759]
+
+Using Indices [281, 250, 228, 142]
+
+Using Indices [754, 104, 692, 758]
+
+Using Indices [558, 89, 604, 432]
+
+Using Indices [32, 30, 95, 223]
+[test] Loss : 1.356471 	 Accuracy : 0043/0100 (43.000000)
